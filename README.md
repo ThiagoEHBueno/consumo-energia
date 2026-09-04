@@ -1,6 +1,6 @@
 consumo_energia ![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github&logoColor=white)
 
-Programa para calcular o consumo de energia de um aparelho eletrônico.
+Programa para calcular o consumo de energia de um aparelho eletrônico. ![GitHub](https://img.shields.io/badge/GitHub-consumo--energia-black?logo=github&logoColor=white)
 
 Linguagem utilizada: Python 
 
