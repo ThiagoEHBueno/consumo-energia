@@ -1,6 +1,6 @@
-consumo_energia - Programa para calcular o consumo de energia de um aparelho eletronico.
+consumo_energia  - Programa para calcular o consumo de energia de um aparelho eletrônico.
 
-Linguagem utilizada: Python
+Linguagem utilizada: [Python https://img.shields.io/badge/:badgeContent](https://img.shields.io/pypi/pyversions/:packageName)
 
 Fórmula utilizada para o cálculo: consumoMensal = (potencia * horasDia * 30) / 1000
 
