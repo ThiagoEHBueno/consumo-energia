@@ -1,4 +1,4 @@
-consumo_energia ![GitHub contributors](https://img.shields.io/github/:metric/:user/:repo)
+consumo_energia ![GitHub Created At](https://img.shields.io/github/created-at/:user/:repo)
 
 Programa para calcular o consumo de energia de um aparelho eletrônico.
 
